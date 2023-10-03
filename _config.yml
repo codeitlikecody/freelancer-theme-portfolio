@@ -1,5 +1,5 @@
 # Site settings
-title: Chris Cody Portfolio
+title: Chris Cody
 email: chris@chriscody.com
 url: https://github.com/codeitlikecody
 description: "Welcome to the portfolio of Chris Cody, a graduate data scientist and software engineer."
@@ -49,6 +49,8 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/codeitlikecody/
+  - title: linkedin
+    url: https://www.linkedin.com/in/chris-cody-13431830/
 
 # Postal address (add as many lines as necessary)
 address:
