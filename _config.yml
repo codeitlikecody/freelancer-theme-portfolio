@@ -4,7 +4,7 @@ email: chris@chriscody.com
 url: https://github.com/codeitlikecody
 description: "Welcome to the portfolio of Chris Cody, a graduate data scientist and software engineer."
 keywords: "data, science, software, engineer, Chris, Cody, portfolio"
-skills: "Data Scientist - Software Engineer - Performance Technician"
+skills: "Data Scientist - Software Engineer"
 meta_author: Cody Chris
 
 # Google webmaster tools
@@ -54,7 +54,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Southeast Gipsland
+  - line: South Gippsland
   - line: VIC Australia
 
 # Credits content
