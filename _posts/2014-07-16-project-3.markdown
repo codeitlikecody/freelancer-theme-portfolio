@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2023
 img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: Secure Network Communication
+project-date: 2023
+language: Python
+category: Software Engineering
+description: Designed a communication protocol for performing basic database operations across a network. Created a console based server application in Python that can accept client connections via TLS/SSL sockets. Developed a Python client that could could connect to the server and perform database CRUD operations remotely. Implemented security features including user authentication and maximum simultaneous connections per server/client
 ---
