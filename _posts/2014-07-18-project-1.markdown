@@ -3,9 +3,9 @@ layout: default
 modal-id: 1
 date: 2022
 img: cabin.png
-alt: Gomoku
+alt: Dashboard
 project-date: 2022
-language: MongoDB, Express, React, Node.JS, Typescript, Docker
-category: Web Development
-description: Created a full stack Gomoku web app using the MERN stack (MongoDB, Express, React, Node.JS) with Typescript. Implimented a custom REST API. Hosted on Heroku using Docker containers. Uses continuous deployment for fast and frequent updates. Includes user authentication. Allows for games to be started, saved, resumed. Game history can be reviewed from the dashboard
+language: Power BI
+category: Data Science
+description: Created a dynamic dashboard in Power BI. Consolidates data from several databases. Performs conditional joins, lookups and filtering across multiple datasets. Allows staff to view and analyse resource demands across music practice rooms, event spaces and equipment hire. Identified teaching schedule changes that could increase teaching capacity by up to 30%. Guiding the construction of additional rehearsal spaces by highlighting the demand for specific room configurations
 ---
