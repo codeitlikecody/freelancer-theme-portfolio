@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2023
+date: 2023-06-06
 img: circus.png
 alt: Secure Network Communication
 project-date: 2023
