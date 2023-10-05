@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-05-05
-img: cake.png
+img: game.png
 alt: Gomoku
 project-date: 2022
 language: MongoDB, Express, React, Node.JS, Typescript, Docker
