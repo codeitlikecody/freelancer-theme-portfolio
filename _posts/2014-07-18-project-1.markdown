@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2022
+date: 2022-06-06
 img: cabin.png
 alt: Dashboard
 project-date: 2022
