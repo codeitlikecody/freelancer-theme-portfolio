@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2022
 img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+alt: Gomoku
+project-date: 2022
+language: MongoDB, Express, React, Node.JS, Typescript, Docker
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Created a full stack Gomoku web app using the MERN stack (MongoDB, Express, React, Node.JS) with Typescript. Implimented a custom REST API. Hosted on Heroku using Docker containers. Uses continuous deployment for fast and frequent updates. Includes user authentication. Allows for games to be started, saved, resumed. Game history can be reviewed from the dashboard
 ---
