@@ -35,6 +35,11 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.link %}
+              <li>Link:
+                <strong><a class="nav-link" href="{{ post.link }}">{{ post.linktext }}</a>  </strong>
+              </li>
+              {% endif %}
             
             </ul>
             <ul class="list-inline item-details">
@@ -44,11 +49,6 @@
               </li>
               {% endif %}
             </ul>
-            <p>
-              {% if post.link %}
-              <a class="nav-link" href="{{ post.link }}">{{ post.linktext }}</a>  
-              {% endif %} 
-            </p>
             
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
