@@ -7,5 +7,5 @@ alt: Heart Attack Risk Modelling
 project-date: 2020
 language: R
 category: Data Science
-description: Performed statistical analysis on scientific data to predict the effect of Creatine Kinase levels on heart attack risk. Fit a generalised linear model on provided data using R. Assessed the model quality and determined it was a good fit with CK being a good predictor of heart attack. Used the model to predict that 75% of patients would likely suffer a heart attack with CK levels of 126.14 IU/L or above. Visualised the model in R studio, highlighting the 75th percentile in line with our predictions
+description: I performed statistical analysis on scientific data to predict the effect of Creatine Kinase levels on heart attack risk, fitting a generalised linear model on the data using R. I assessed the model quality and determined it was a good fit with CK being a good predictor of heart attack. The model was used to predict that 75% of patients would likely suffer a heart attack with CK levels of 126.14 IU/L or above. Finally, I visualised the model in R studio, highlighting the 75th percentile in line with our predictions
 ---

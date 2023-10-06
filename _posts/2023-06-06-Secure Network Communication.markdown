@@ -7,5 +7,5 @@ alt: Secure Network Communication
 project-date: 2023
 language: Python
 category: Software Engineering
-description: Designed a communication protocol for performing basic database operations across a network. Created a console based server application in Python that can accept client connections via TLS/SSL sockets. Developed a Python client that could could connect to the server and perform database CRUD operations remotely. Implemented security features including user authentication and maximum simultaneous connections per server/client
+description: In early 2023 I designed a communication protocol for performing basic database operations across a network. As part of this project, I created console based server and client applications in Python that can communicate via TLS/SSL, allowing teh client to perform database CRUD operations remotely. The project includes industry standard security features like user authentication, encryption and restricting the number of connections per client.
 ---
