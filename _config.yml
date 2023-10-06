@@ -58,7 +58,7 @@ address:
   - line: VIC Australia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "This site is only possible thanks to my fur babies: Basil, Ella, Billy, Gemima and Alfie"
 
 # Build settings
 markdown: kramdown
