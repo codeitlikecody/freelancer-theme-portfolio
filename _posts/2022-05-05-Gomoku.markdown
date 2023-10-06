@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 2022050501
 date: 2022-05-05
-img: game.png
+img: gomoku.svg
 alt: Gomoku
 project-date: 2022
 language: MongoDB, Express, React, Node.JS, Typescript, Docker

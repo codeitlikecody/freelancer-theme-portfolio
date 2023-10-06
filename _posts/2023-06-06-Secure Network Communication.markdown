@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2023060601
 date: 2023-06-06
-img: safe.png
+img: secured_network.svg
 alt: Secure Network Communication
 project-date: 2023
 language: Python

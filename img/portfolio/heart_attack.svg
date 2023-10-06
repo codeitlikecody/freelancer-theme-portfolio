@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2092.15 1503.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #181618;
+        stroke-width: 40px;
+      }
+
+      .cls-3 {
+        fill: #652d7a;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #c2485f;
+        fill-rule: evenodd;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #2baa9b;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" width="2092.15" height="1503.41"/>
+    <circle class="cls-3" cx="1046.07" cy="751.7" r="606.58"/>
+  </g>
+  <g>
+    <path class="cls-2" d="m1046.07,521.87l35.53-32.12c92.44-92.46,242.39-92.46,334.83,0,92.48,92.48,92.46,242.39,0,334.83l-370.37,373.78-370.37-373.78c-92.46-92.44-92.48-242.36,0-334.83,92.44-92.46,242.39-92.46,334.83,0l35.53,32.12Z"/>
+    <g>
+      <path class="cls-1" d="m1046.07,521.87l35.53-32.12c92.44-92.46,242.39-92.46,334.83,0,92.48,92.48,92.46,242.39,0,334.83l-370.37,373.78-370.37-373.78c-92.46-92.44-92.48-242.36,0-334.83,92.44-92.46,242.39-92.46,334.83,0l35.53,32.12Z"/>
+      <path class="cls-1" d="m876.95,826.29h118.39l50.74-202.95,84.56,372.08,67.65-236.78,33.83,67.65h253.69"/>
+    </g>
+  </g>
+</svg>

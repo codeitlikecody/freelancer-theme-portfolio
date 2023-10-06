@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-07-07
-img: cabin.png
+date: 2023-10-01
+img: data_dashboard.svg
 alt: Dashboard
-project-date: 2022
+project-date: 2023
 language: Power BI
 category: Data Science
 description: Created a dynamic dashboard in Power BI. Consolidates data from several databases. Performs conditional joins, lookups and filtering across multiple datasets. Allows staff to view and analyse resource demands across music practice rooms, event spaces and equipment hire. Identified teaching schedule changes that could increase teaching capacity by up to 30%. Guiding the construction of additional rehearsal spaces by highlighting the demand for specific room configurations

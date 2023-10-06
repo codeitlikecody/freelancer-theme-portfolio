@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2020050101
 date: 2020-05-01
-img: submarine.png
+img: heart_attack.svg
 alt: Heart Attack Risk Modelling
 project-date: 2020
 language: R
