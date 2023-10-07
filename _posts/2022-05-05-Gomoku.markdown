@@ -7,5 +7,5 @@ alt: Gomoku
 project-date: 2022
 language: MongoDB, Express, React, Node.JS, Typescript, Docker, REST APIs
 category: Web Development
-description: In 2022 I created Gomoku, a full stack  web app of the popular game, using the MERN stack (MongoDB, Express, React, Node.JS). Using Typescript, I implimented a custom REST API. The site is hosted inside a docker container on Netlify. With continuous deployment for fast and frequent updates, the game can be updated directly from the github repo. The app includes user registration and authentication and allows for games to be started, saved on the server and resumed at a later date. All game history can be reviewed from the dashboard.
+description: In 2022 I created Gomoku, a full stack  web app of the popular game, using the MERN stack (MongoDB, Express, React, Node.JS). Using Typescript, I implimented a custom REST API to allow communication between the React frontend and Express backend. The site is hosted inside a docker container on Heroku. With continuous deployment, the game is automatically updated by committing to the live branch on github. The app includes user registration & authentication and allows for a user to start new games, save their game on the server and resumed any saved game at a later date. All of a user's game history can be reviewed from their dashboard.
 ---
