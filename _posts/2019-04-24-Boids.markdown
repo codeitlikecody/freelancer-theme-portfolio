@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2019042401
-date: 2023-10-01
+date: 2019-04-24
 img: boids.svg
 alt: Boids
 project-date: 2019
