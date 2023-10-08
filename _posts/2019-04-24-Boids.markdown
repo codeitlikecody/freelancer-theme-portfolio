@@ -6,7 +6,7 @@ img: boids.svg
 alt: Boids
 project-date: 2019
 language: Scala
-category: Data Science
-description: Implementation of the classic Boids simulation using a combination of functional and imperitive code. Added features including wind, startling the flock, inserting additional boids, teleportation of boids and action replay. 
+category: Computer Science
+description: Implementation of the classic Boids simulation using a combination of functional and imperitive code in Scala. Added features including wind, startling the flock, inserting additional boids, teleportation of boids and action replay. 
 
 ---
